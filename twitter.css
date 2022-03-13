@@ -14,7 +14,7 @@ body{
 .white{
     width: 500px;
     height: 400px;
-    background-color:rgb(0, 153, 255);
+    background-color:rgb(0, 225, 255);
     float: left;
 
 }
@@ -25,12 +25,17 @@ body{
     float: right;
 }
 .box1{
-    padding-left: 100px;
+    padding-left:100px;
     padding-right: 100px;
     padding-top: 150px;
     color:white;
-
+    height: 249px;
+    background-size: 100% 100%;
+    background-position: center;
+    background-image: url("twitter\ bird\ logo.png");
 }
+
+
 .box2{
     padding-left: 100px;
     padding-right: 100px;
